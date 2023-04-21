@@ -34,7 +34,7 @@ $ MIZUYA 语境
 你好，你叫什么啊？
 }}
 #talk_1_back: {{
-你可以叫我小赵。
+你可以叫我小Z
 }}
 #command_0: tree .
 #command_0_back:
